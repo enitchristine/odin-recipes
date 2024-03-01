@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.recipe{
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+    align-items: center;
+}
+
+.recipe-img{
+    margin:4%;
+}
+
+.description {
+    background-color: antiquewhite;
+    padding: 2%;
+    margin: 2%;
+
+}
+
+.ingredients{
+    background-color: antiquewhite;
+    padding: 2%;
+    margin: 2%;
+}
