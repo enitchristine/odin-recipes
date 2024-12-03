@@ -1,0 +1,1 @@
+This is a recipes website that I will be creating to practice HTML, and will revisit to practice CSS. I would be able to write HTML boilerplate, crate basic homepage and pages, and structure them.
